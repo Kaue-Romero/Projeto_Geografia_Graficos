@@ -11,12 +11,12 @@ function BarChart() {
         
         const mockData = {
             labels: {
-                categories: ['Anakin', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
+                categories: ['Italianos', 'Portugueses', 'Diversos', 'Espanhóis', 'Alemães', 'Japoneses', 'Russos']
             },
             series: [
                 {
-                    name: "% Sucesso",
-                    data: [43.6, 67.1, 67.7, 45.6, 71.1]                   
+                    name: "Imigrantes (em mil)",
+                    data: [1565.835, 1470.687, 674, 210, 190, 118]                   
                 }
             ]
         };
